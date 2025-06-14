@@ -1,4 +1,5 @@
-# TS-Event-Management-group
+#
+
 TS Event Management – Event Booking Website
 A full-featured event management website with:
 
